@@ -13,9 +13,6 @@ KEYWORDS = ['taskwarrior', 'timewarrior', 'taskserver']
 # The number of days at which point we consider a repository obsolete (3 years)
 DAYS_OBSOLETE = 3 * 365
 
-# The date format we get as a response from the APIs
-DATE_FMT = "%Y-%m-%dT%H:%M:%SZ"
-
 # Files to always and never include
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
 ALWAYS_INCLUDED_PATH = os.path.join(SCRIPT_DIR, 'always_include.json')
