@@ -49,11 +49,11 @@
     "language": [
       "Python"
     ],
-    "last_update": "2021-04-11 18:29:11",
+    "last_update": "2021-04-19 20:50:43",
     "license": "GNU General Public License v3.0",
     "name": "bugwarrior",
     "obsolete": false,
-    "stars": 534,
+    "stars": 533,
     "theme": [
       "Git"
     ],
@@ -110,11 +110,11 @@
     "language": [
       "Ruby"
     ],
-    "last_update": "2021-04-07 05:47:02",
+    "last_update": "2021-04-19 02:40:13",
     "license": "MIT License",
     "name": "taskwarrior-web",
     "obsolete": false,
-    "stars": 433,
+    "stars": 432,
     "theme": [
       "Time",
       "Web"
@@ -189,11 +189,11 @@
     "language": [
       "Swift"
     ],
-    "last_update": "2021-04-11 16:42:58",
+    "last_update": "2021-04-19 23:03:47",
     "license": "MIT License",
     "name": "taskwarrior-pomodoro",
     "obsolete": false,
-    "stars": 227,
+    "stars": 228,
     "theme": [
       "OSX"
     ],
@@ -366,11 +366,11 @@
     "language": [
       "Python"
     ],
-    "last_update": "2021-04-04 19:34:24",
+    "last_update": "2021-04-19 15:42:03",
     "license": "GNU General Public License v3.0",
     "name": "trellowarrior",
     "obsolete": false,
-    "stars": 77,
+    "stars": 78,
     "theme": [],
     "url": "https://github.com/ogarcia/trellowarrior",
     "url_src": "https://github.com/ogarcia/trellowarrior"
@@ -463,11 +463,11 @@
     "language": [
       "Perl"
     ],
-    "last_update": "2021-01-31 15:56:40",
+    "last_update": "2021-04-19 21:04:27",
     "license": null,
     "name": "task-dashboard",
     "obsolete": false,
-    "stars": 47,
+    "stars": 48,
     "theme": [],
     "url": "https://github.com/8ware/task-dashboard",
     "url_src": "https://github.com/8ware/task-dashboard"
@@ -668,6 +668,25 @@
   },
   {
     "author": [
+      "matthiasbeyer"
+    ],
+    "category": "Unknown",
+    "description": "A Rust library for writing taskwarrior hooks and general interfacing with taskwarrior",
+    "descriptionText": "A Rust library for writing taskwarrior hooks and general interfacing with taskwarrior",
+    "language": [
+      "Rust"
+    ],
+    "last_update": "2021-04-19 11:29:23",
+    "license": "Mozilla Public License 2.0",
+    "name": "task-hookrs",
+    "obsolete": false,
+    "stars": 27,
+    "theme": [],
+    "url": "https://github.com/matthiasbeyer/task-hookrs",
+    "url_src": "https://github.com/matthiasbeyer/task-hookrs"
+  },
+  {
+    "author": [
       "ogarcia"
     ],
     "category": "Unknown",
@@ -684,25 +703,6 @@
     "theme": [],
     "url": "https://github.com/ogarcia/docker-taskd",
     "url_src": "https://github.com/ogarcia/docker-taskd"
-  },
-  {
-    "author": [
-      "matthiasbeyer"
-    ],
-    "category": "Unknown",
-    "description": "A Rust library for writing taskwarrior hooks and general interfacing with taskwarrior",
-    "descriptionText": "A Rust library for writing taskwarrior hooks and general interfacing with taskwarrior",
-    "language": [
-      "Rust"
-    ],
-    "last_update": "2021-04-17 14:42:52",
-    "license": "Mozilla Public License 2.0",
-    "name": "task-hookrs",
-    "obsolete": false,
-    "stars": 26,
-    "theme": [],
-    "url": "https://github.com/matthiasbeyer/task-hookrs",
-    "url_src": "https://github.com/matthiasbeyer/task-hookrs"
   },
   {
     "author": [
@@ -803,6 +803,25 @@
   },
   {
     "author": [
+      "tbabej"
+    ],
+    "category": "Unknown",
+    "description": "A pluggable system for tasklib based TaskWarrior hooks. Faster, less boilerplate code!",
+    "descriptionText": "A pluggable system for tasklib based TaskWarrior hooks. Faster, less boilerplate code!",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2021-04-19 11:48:25",
+    "license": "Other",
+    "name": "taskpirate",
+    "obsolete": false,
+    "stars": 22,
+    "theme": [],
+    "url": "https://github.com/tbabej/taskpirate",
+    "url_src": "https://github.com/tbabej/taskpirate"
+  },
+  {
+    "author": [
       "nerab"
     ],
     "category": "Unknown",
@@ -819,25 +838,6 @@
     "theme": [],
     "url": "https://github.com/nerab/twdeps",
     "url_src": "https://github.com/nerab/twdeps"
-  },
-  {
-    "author": [
-      "tbabej"
-    ],
-    "category": "Unknown",
-    "description": "A pluggable system for tasklib based TaskWarrior hooks. Faster, less boilerplate code!",
-    "descriptionText": "A pluggable system for tasklib based TaskWarrior hooks. Faster, less boilerplate code!",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2021-03-08 09:41:20",
-    "license": "Other",
-    "name": "taskpirate",
-    "obsolete": false,
-    "stars": 21,
-    "theme": [],
-    "url": "https://github.com/tbabej/taskpirate",
-    "url_src": "https://github.com/tbabej/taskpirate"
   },
   {
     "author": [
@@ -1882,6 +1882,25 @@
   },
   {
     "author": [
+      "jspricke"
+    ],
+    "category": "Unknown",
+    "description": "Python library to convert between Taskwarrior and vObject",
+    "descriptionText": "Python library to convert between Taskwarrior and vObject",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2021-04-19 02:15:36",
+    "license": "GNU General Public License v3.0",
+    "name": "python-icstask",
+    "obsolete": false,
+    "stars": 7,
+    "theme": [],
+    "url": "https://github.com/jspricke/python-icstask",
+    "url_src": "https://github.com/jspricke/python-icstask"
+  },
+  {
+    "author": [
       "niknow"
     ],
     "category": "Unknown",
@@ -2002,25 +2021,6 @@
   },
   {
     "author": [
-      "mokrunka"
-    ],
-    "category": "Unknown",
-    "description": "Plugin framework wrapping taskwarrior",
-    "descriptionText": "Plugin framework wrapping taskwarrior",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2020-12-28 17:10:39",
-    "license": "MIT License",
-    "name": "taskwarrior-capsules",
-    "obsolete": false,
-    "stars": 6,
-    "theme": [],
-    "url": "https://github.com/mokrunka/taskwarrior-capsules",
-    "url_src": "https://github.com/mokrunka/taskwarrior-capsules"
-  },
-  {
-    "author": [
       "nerab"
     ],
     "category": "Unknown",
@@ -2037,6 +2037,25 @@
     "theme": [],
     "url": "https://github.com/nerab/taskwarrior",
     "url_src": "https://github.com/nerab/taskwarrior"
+  },
+  {
+    "author": [
+      "mokrunka"
+    ],
+    "category": "Unknown",
+    "description": "Plugin framework wrapping taskwarrior",
+    "descriptionText": "Plugin framework wrapping taskwarrior",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2020-12-28 17:10:39",
+    "license": "MIT License",
+    "name": "taskwarrior-capsules",
+    "obsolete": false,
+    "stars": 6,
+    "theme": [],
+    "url": "https://github.com/mokrunka/taskwarrior-capsules",
+    "url_src": "https://github.com/mokrunka/taskwarrior-capsules"
   },
   {
     "author": [
@@ -2079,25 +2098,6 @@
     ],
     "url": "https://github.com/nagua/harbour-taskwarrior-GUI",
     "url_src": "https://github.com/nagua/harbour-taskwarrior-GUI"
-  },
-  {
-    "author": [
-      "jspricke"
-    ],
-    "category": "Unknown",
-    "description": "Python library to convert between Taskwarrior and vObject",
-    "descriptionText": "Python library to convert between Taskwarrior and vObject",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2021-01-27 10:57:56",
-    "license": "GNU General Public License v3.0",
-    "name": "python-icstask",
-    "obsolete": false,
-    "stars": 6,
-    "theme": [],
-    "url": "https://github.com/jspricke/python-icstask",
-    "url_src": "https://github.com/jspricke/python-icstask"
   },
   {
     "author": [
@@ -2200,25 +2200,6 @@
   },
   {
     "author": [
-      "cgardner"
-    ],
-    "category": "Unknown",
-    "description": "Templating tool for taskwarrior written in Go",
-    "descriptionText": "Templating tool for taskwarrior written in Go",
-    "language": [
-      "Go"
-    ],
-    "last_update": "2020-06-17 08:50:25",
-    "license": null,
-    "name": "taskhelper",
-    "obsolete": false,
-    "stars": 6,
-    "theme": [],
-    "url": "https://github.com/cgardner/taskhelper",
-    "url_src": "https://github.com/cgardner/taskhelper"
-  },
-  {
-    "author": [
       "jbarratt"
     ],
     "category": "Unknown",
@@ -2235,6 +2216,25 @@
     "theme": [],
     "url": "https://github.com/jbarratt/AlfredTaskwarrior",
     "url_src": "https://github.com/jbarratt/AlfredTaskwarrior"
+  },
+  {
+    "author": [
+      "cgardner"
+    ],
+    "category": "Unknown",
+    "description": "Templating tool for taskwarrior written in Go",
+    "descriptionText": "Templating tool for taskwarrior written in Go",
+    "language": [
+      "Go"
+    ],
+    "last_update": "2020-06-17 08:50:25",
+    "license": null,
+    "name": "taskhelper",
+    "obsolete": false,
+    "stars": 6,
+    "theme": [],
+    "url": "https://github.com/cgardner/taskhelper",
+    "url_src": "https://github.com/cgardner/taskhelper"
   },
   {
     "author": [
@@ -2694,25 +2694,6 @@
       "linuxcaffe"
     ],
     "category": "Unknown",
-    "description": "A taskwarrior hook that enables automatic and multi-line annotations.",
-    "descriptionText": "A taskwarrior hook that enables automatic and multi-line annotations.",
-    "language": [
-      "Shell"
-    ],
-    "last_update": "2021-01-10 23:53:30",
-    "license": "MIT License",
-    "name": "tw-ann-hook",
-    "obsolete": false,
-    "stars": 4,
-    "theme": [],
-    "url": "https://github.com/linuxcaffe/tw-ann-hook",
-    "url_src": "https://github.com/linuxcaffe/tw-ann-hook"
-  },
-  {
-    "author": [
-      "linuxcaffe"
-    ],
-    "category": "Unknown",
     "description": "an urgency-driven, context-aware scheduling script for taskwarrior",
     "descriptionText": "an urgency-driven, context-aware scheduling script for taskwarrior",
     "language": [
@@ -3016,6 +2997,25 @@
   },
   {
     "author": [
+      "teranex"
+    ],
+    "category": "Unknown",
+    "description": "A simply query interface for Taskwarrior",
+    "descriptionText": "A simply query interface for Taskwarrior",
+    "language": [
+      "Ruby"
+    ],
+    "last_update": "2019-07-27 21:28:41",
+    "license": "MIT License",
+    "name": "taskquery",
+    "obsolete": false,
+    "stars": 3,
+    "theme": [],
+    "url": "https://github.com/teranex/taskquery",
+    "url_src": "https://github.com/teranex/taskquery"
+  },
+  {
+    "author": [
       "coddingtonbear"
     ],
     "category": "Unknown",
@@ -3056,22 +3056,22 @@
   },
   {
     "author": [
-      "teranex"
+      "kchr"
     ],
     "category": "Unknown",
-    "description": "A simply query interface for Taskwarrior",
-    "descriptionText": "A simply query interface for Taskwarrior",
+    "description": "Taskwarrior module for the prezto framework",
+    "descriptionText": "Taskwarrior module for the prezto framework",
     "language": [
-      "Ruby"
+      "Shell"
     ],
-    "last_update": "2019-07-27 21:28:41",
+    "last_update": "2020-11-15 05:27:10",
     "license": "MIT License",
-    "name": "taskquery",
+    "name": "prezto-taskwarrior",
     "obsolete": false,
     "stars": 3,
     "theme": [],
-    "url": "https://github.com/teranex/taskquery",
-    "url_src": "https://github.com/teranex/taskquery"
+    "url": "https://github.com/kchr/prezto-taskwarrior",
+    "url_src": "https://github.com/kchr/prezto-taskwarrior"
   },
   {
     "author": [
@@ -3094,25 +3094,6 @@
   },
   {
     "author": [
-      "kchr"
-    ],
-    "category": "Unknown",
-    "description": "Taskwarrior module for the prezto framework",
-    "descriptionText": "Taskwarrior module for the prezto framework",
-    "language": [
-      "Shell"
-    ],
-    "last_update": "2020-11-15 05:27:10",
-    "license": "MIT License",
-    "name": "prezto-taskwarrior",
-    "obsolete": false,
-    "stars": 3,
-    "theme": [],
-    "url": "https://github.com/kchr/prezto-taskwarrior",
-    "url_src": "https://github.com/kchr/prezto-taskwarrior"
-  },
-  {
-    "author": [
       "erichschroeter"
     ],
     "category": "Unknown",
@@ -3129,6 +3110,25 @@
     "theme": [],
     "url": "https://github.com/erichschroeter/taskweb",
     "url_src": "https://github.com/erichschroeter/taskweb"
+  },
+  {
+    "author": [
+      "linuxcaffe"
+    ],
+    "category": "Unknown",
+    "description": "A taskwarrior hook that enables automatic and multi-line annotations.",
+    "descriptionText": "A taskwarrior hook that enables automatic and multi-line annotations.",
+    "language": [
+      "Shell"
+    ],
+    "last_update": "2021-04-19 17:12:07",
+    "license": "MIT License",
+    "name": "tw-ann-hook",
+    "obsolete": false,
+    "stars": 3,
+    "theme": [],
+    "url": "https://github.com/linuxcaffe/tw-ann-hook",
+    "url_src": "https://github.com/linuxcaffe/tw-ann-hook"
   },
   {
     "author": [
@@ -3229,25 +3229,6 @@
   },
   {
     "author": [
-      "alkim0"
-    ],
-    "category": "Unknown",
-    "description": "A set of scripts to manage attachments in TaskWarrior",
-    "descriptionText": "A set of scripts to manage attachments in TaskWarrior",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2020-11-11 18:53:02",
-    "license": "MIT License",
-    "name": "task-attach",
-    "obsolete": false,
-    "stars": 3,
-    "theme": [],
-    "url": "https://github.com/alkim0/task-attach",
-    "url_src": "https://github.com/alkim0/task-attach"
-  },
-  {
-    "author": [
       "therealklanni"
     ],
     "category": "Unknown",
@@ -3286,22 +3267,22 @@
   },
   {
     "author": [
-      "KonradIT"
+      "alkim0"
     ],
     "category": "Unknown",
-    "description": "A Pebble client for Taskwarrior TODO Manager (syncs with Inthe.AM service!)",
-    "descriptionText": "A Pebble client for Taskwarrior TODO Manager (syncs with Inthe.AM service!)",
+    "description": "A set of scripts to manage attachments in TaskWarrior",
+    "descriptionText": "A set of scripts to manage attachments in TaskWarrior",
     "language": [
-      "JavaScript"
+      "Python"
     ],
-    "last_update": "2021-01-09 23:52:16",
-    "license": null,
-    "name": "pebble-taskwarrior",
+    "last_update": "2020-11-11 18:53:02",
+    "license": "MIT License",
+    "name": "task-attach",
     "obsolete": false,
     "stars": 3,
     "theme": [],
-    "url": "https://github.com/KonradIT/pebble-taskwarrior",
-    "url_src": "https://github.com/KonradIT/pebble-taskwarrior"
+    "url": "https://github.com/alkim0/task-attach",
+    "url_src": "https://github.com/alkim0/task-attach"
   },
   {
     "author": [
@@ -3321,6 +3302,25 @@
     "theme": [],
     "url": "https://github.com/nasoym/task_tools",
     "url_src": "https://github.com/nasoym/task_tools"
+  },
+  {
+    "author": [
+      "KonradIT"
+    ],
+    "category": "Unknown",
+    "description": "A Pebble client for Taskwarrior TODO Manager (syncs with Inthe.AM service!)",
+    "descriptionText": "A Pebble client for Taskwarrior TODO Manager (syncs with Inthe.AM service!)",
+    "language": [
+      "JavaScript"
+    ],
+    "last_update": "2021-01-09 23:52:16",
+    "license": null,
+    "name": "pebble-taskwarrior",
+    "obsolete": false,
+    "stars": 3,
+    "theme": [],
+    "url": "https://github.com/KonradIT/pebble-taskwarrior",
+    "url_src": "https://github.com/KonradIT/pebble-taskwarrior"
   },
   {
     "author": [
@@ -3395,7 +3395,7 @@
     "language": [
       "Haskell"
     ],
-    "last_update": "2021-04-18 19:33:36",
+    "last_update": "2021-04-19 09:35:47",
     "license": "GNU Affero General Public License v3.0",
     "name": "kassandra",
     "obsolete": false,
@@ -3678,25 +3678,6 @@
   },
   {
     "author": [
-      "ForNeVeR"
-    ],
-    "category": "Unknown",
-    "description": "Import data from Wekan to Taskwarrior",
-    "descriptionText": "Import data from Wekan to Taskwarrior",
-    "language": [
-      "PowerShell"
-    ],
-    "last_update": "2019-12-02 03:04:59",
-    "license": "MIT License",
-    "name": "wekan-to-taskwarrior",
-    "obsolete": false,
-    "stars": 2,
-    "theme": [],
-    "url": "https://github.com/ForNeVeR/wekan-to-taskwarrior",
-    "url_src": "https://github.com/ForNeVeR/wekan-to-taskwarrior"
-  },
-  {
-    "author": [
       "metamorph"
     ],
     "category": "Unknown",
@@ -3732,6 +3713,25 @@
     "theme": [],
     "url": "https://github.com/nkakouros-original/ansible-role-taskserver",
     "url_src": "https://github.com/nkakouros-original/ansible-role-taskserver"
+  },
+  {
+    "author": [
+      "ForNeVeR"
+    ],
+    "category": "Unknown",
+    "description": "Import data from Wekan to Taskwarrior",
+    "descriptionText": "Import data from Wekan to Taskwarrior",
+    "language": [
+      "PowerShell"
+    ],
+    "last_update": "2019-12-02 03:04:59",
+    "license": "MIT License",
+    "name": "wekan-to-taskwarrior",
+    "obsolete": false,
+    "stars": 2,
+    "theme": [],
+    "url": "https://github.com/ForNeVeR/wekan-to-taskwarrior",
+    "url_src": "https://github.com/ForNeVeR/wekan-to-taskwarrior"
   },
   {
     "author": [
@@ -3986,6 +3986,27 @@
   },
   {
     "author": [
+      "regnat"
+    ],
+    "category": "Unknown",
+    "description": "Web UI for Taskwarrior",
+    "descriptionText": "Web UI for Taskwarrior",
+    "language": [
+      "JavaScript"
+    ],
+    "last_update": "2021-04-13 06:38:04",
+    "license": "MIT License",
+    "name": "twui",
+    "obsolete": false,
+    "stars": 1,
+    "theme": [
+      "Web"
+    ],
+    "url": "https://github.com/regnat/twui",
+    "url_src": "https://github.com/regnat/twui"
+  },
+  {
+    "author": [
       "Fongshway"
     ],
     "category": "Unknown",
@@ -4024,24 +4045,22 @@
   },
   {
     "author": [
-      "regnat"
+      "mokrunka"
     ],
     "category": "Unknown",
-    "description": "Web UI for Taskwarrior",
-    "descriptionText": "Web UI for Taskwarrior",
+    "description": "Example Taskwarrior capsule",
+    "descriptionText": "Example Taskwarrior capsule",
     "language": [
-      "JavaScript"
+      "Python"
     ],
-    "last_update": "2021-04-13 06:38:04",
+    "last_update": "2020-12-14 19:40:50",
     "license": "MIT License",
-    "name": "twui",
+    "name": "taskwarrior-EXAMPLE-capsule",
     "obsolete": false,
     "stars": 1,
-    "theme": [
-      "Web"
-    ],
-    "url": "https://github.com/regnat/twui",
-    "url_src": "https://github.com/regnat/twui"
+    "theme": [],
+    "url": "https://github.com/mokrunka/taskwarrior-EXAMPLE-capsule",
+    "url_src": "https://github.com/mokrunka/taskwarrior-EXAMPLE-capsule"
   },
   {
     "author": [
@@ -4083,25 +4102,6 @@
   },
   {
     "author": [
-      "mokrunka"
-    ],
-    "category": "Unknown",
-    "description": "Example Taskwarrior capsule",
-    "descriptionText": "Example Taskwarrior capsule",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2020-12-14 19:40:50",
-    "license": "MIT License",
-    "name": "taskwarrior-EXAMPLE-capsule",
-    "obsolete": false,
-    "stars": 1,
-    "theme": [],
-    "url": "https://github.com/mokrunka/taskwarrior-EXAMPLE-capsule",
-    "url_src": "https://github.com/mokrunka/taskwarrior-EXAMPLE-capsule"
-  },
-  {
-    "author": [
       "codekie"
     ],
     "category": "Unknown",
@@ -4120,25 +4120,6 @@
     ],
     "url": "https://github.com/codekie/spartaaa",
     "url_src": "https://github.com/codekie/spartaaa"
-  },
-  {
-    "author": [
-      "alepeh"
-    ],
-    "category": "Unknown",
-    "description": "Sync Taskwarrior with Apple Reminders",
-    "descriptionText": "Sync Taskwarrior with Apple Reminders",
-    "language": [
-      "N/A"
-    ],
-    "last_update": "2021-01-12 16:53:32",
-    "license": "Apache License 2.0",
-    "name": "taskwarrior-apple-reminders",
-    "obsolete": false,
-    "stars": 1,
-    "theme": [],
-    "url": "https://github.com/alepeh/taskwarrior-apple-reminders",
-    "url_src": "https://github.com/alepeh/taskwarrior-apple-reminders"
   },
   {
     "author": [
@@ -4161,22 +4142,22 @@
   },
   {
     "author": [
-      "mokrunka"
+      "alepeh"
     ],
     "category": "Unknown",
-    "description": "Adds context functionality to taskwarrior",
-    "descriptionText": "Adds context functionality to taskwarrior",
+    "description": "Sync Taskwarrior with Apple Reminders",
+    "descriptionText": "Sync Taskwarrior with Apple Reminders",
     "language": [
-      "Python"
+      "N/A"
     ],
-    "last_update": "2020-12-15 14:34:42",
-    "license": "MIT License",
-    "name": "taskwarrior-context-capsule",
+    "last_update": "2021-01-12 16:53:32",
+    "license": "Apache License 2.0",
+    "name": "taskwarrior-apple-reminders",
     "obsolete": false,
     "stars": 1,
     "theme": [],
-    "url": "https://github.com/mokrunka/taskwarrior-context-capsule",
-    "url_src": "https://github.com/mokrunka/taskwarrior-context-capsule"
+    "url": "https://github.com/alepeh/taskwarrior-apple-reminders",
+    "url_src": "https://github.com/alepeh/taskwarrior-apple-reminders"
   },
   {
     "author": [
@@ -4218,24 +4199,22 @@
   },
   {
     "author": [
-      "fmeynadier"
+      "mokrunka"
     ],
     "category": "Unknown",
-    "description": "Yet another Taskwarrior time-tracker",
-    "descriptionText": "Yet another Taskwarrior time-tracker",
+    "description": "Adds context functionality to taskwarrior",
+    "descriptionText": "Adds context functionality to taskwarrior",
     "language": [
       "Python"
     ],
-    "last_update": "2016-02-11 13:52:40",
+    "last_update": "2020-12-15 14:34:42",
     "license": "MIT License",
-    "name": "yatwtt",
-    "obsolete": true,
+    "name": "taskwarrior-context-capsule",
+    "obsolete": false,
     "stars": 1,
-    "theme": [
-      "Time"
-    ],
-    "url": "https://github.com/fmeynadier/yatwtt",
-    "url_src": "https://github.com/fmeynadier/yatwtt"
+    "theme": [],
+    "url": "https://github.com/mokrunka/taskwarrior-context-capsule",
+    "url_src": "https://github.com/mokrunka/taskwarrior-context-capsule"
   },
   {
     "author": [
@@ -4255,6 +4234,27 @@
     "theme": [],
     "url": "https://github.com/mpoquet/taskwarrior-scripts",
     "url_src": "https://github.com/mpoquet/taskwarrior-scripts"
+  },
+  {
+    "author": [
+      "fmeynadier"
+    ],
+    "category": "Unknown",
+    "description": "Yet another Taskwarrior time-tracker",
+    "descriptionText": "Yet another Taskwarrior time-tracker",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2016-02-11 13:52:40",
+    "license": "MIT License",
+    "name": "yatwtt",
+    "obsolete": true,
+    "stars": 1,
+    "theme": [
+      "Time"
+    ],
+    "url": "https://github.com/fmeynadier/yatwtt",
+    "url_src": "https://github.com/fmeynadier/yatwtt"
   },
   {
     "author": [
@@ -4315,22 +4315,22 @@
   },
   {
     "author": [
-      "bmejias"
+      "indieterminacy"
     ],
     "category": "Unknown",
-    "description": "Kanban verbs to wrap taskwarrior actions",
-    "descriptionText": "Kanban verbs to wrap taskwarrior actions",
+    "description": "ZSH functions to boost Taskwarrior productivity",
+    "descriptionText": "ZSH functions to boost Taskwarrior productivity",
     "language": [
-      "Python"
+      "Shell"
     ],
-    "last_update": "2016-03-14 03:58:28",
+    "last_update": "2018-11-26 16:10:29",
     "license": null,
-    "name": "kanban4taskwarrior",
-    "obsolete": true,
+    "name": "1q10rq_tasks_taskwarrior_zsh",
+    "obsolete": false,
     "stars": 1,
     "theme": [],
-    "url": "https://github.com/bmejias/kanban4taskwarrior",
-    "url_src": "https://github.com/bmejias/kanban4taskwarrior"
+    "url": "https://github.com/indieterminacy/1q10rq_tasks_taskwarrior_zsh",
+    "url_src": "https://github.com/indieterminacy/1q10rq_tasks_taskwarrior_zsh"
   },
   {
     "author": [
@@ -4429,41 +4429,41 @@
   },
   {
     "author": [
-      "indieterminacy"
+      "bmejias"
     ],
     "category": "Unknown",
-    "description": "ZSH functions to boost Taskwarrior productivity",
-    "descriptionText": "ZSH functions to boost Taskwarrior productivity",
-    "language": [
-      "Shell"
-    ],
-    "last_update": "2018-11-26 16:10:29",
-    "license": null,
-    "name": "1q10rq_tasks_taskwarrior_zsh",
-    "obsolete": false,
-    "stars": 1,
-    "theme": [],
-    "url": "https://github.com/indieterminacy/1q10rq_tasks_taskwarrior_zsh",
-    "url_src": "https://github.com/indieterminacy/1q10rq_tasks_taskwarrior_zsh"
-  },
-  {
-    "author": [
-      "jakejohns"
-    ],
-    "category": "Unknown",
-    "description": "utility for mutt, taskwarrior, and taskopen",
-    "descriptionText": "utility for mutt, taskwarrior, and taskopen",
+    "description": "Kanban verbs to wrap taskwarrior actions",
+    "descriptionText": "Kanban verbs to wrap taskwarrior actions",
     "language": [
       "Python"
     ],
-    "last_update": "2014-09-19 23:04:16",
-    "license": "GNU General Public License v2.0",
-    "name": "py-muttwarrior",
+    "last_update": "2016-03-14 03:58:28",
+    "license": null,
+    "name": "kanban4taskwarrior",
     "obsolete": true,
     "stars": 1,
     "theme": [],
-    "url": "https://github.com/jakejohns/py-muttwarrior",
-    "url_src": "https://github.com/jakejohns/py-muttwarrior"
+    "url": "https://github.com/bmejias/kanban4taskwarrior",
+    "url_src": "https://github.com/bmejias/kanban4taskwarrior"
+  },
+  {
+    "author": [
+      "cherusk"
+    ],
+    "category": "Unknown",
+    "description": "Taskwarrior based doability projector and reviser",
+    "descriptionText": "Taskwarrior based doability projector and reviser",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2019-04-22 20:21:43",
+    "license": "MIT License",
+    "name": "tw_projector",
+    "obsolete": false,
+    "stars": 1,
+    "theme": [],
+    "url": "https://github.com/cherusk/tw_projector",
+    "url_src": "https://github.com/cherusk/tw_projector"
   },
   {
     "author": [
@@ -4488,22 +4488,41 @@
   },
   {
     "author": [
-      "cherusk"
+      "jakejohns"
     ],
     "category": "Unknown",
-    "description": "Taskwarrior based doability projector and reviser",
-    "descriptionText": "Taskwarrior based doability projector and reviser",
+    "description": "utility for mutt, taskwarrior, and taskopen",
+    "descriptionText": "utility for mutt, taskwarrior, and taskopen",
     "language": [
       "Python"
     ],
-    "last_update": "2019-04-22 20:21:43",
-    "license": "MIT License",
-    "name": "tw_projector",
+    "last_update": "2014-09-19 23:04:16",
+    "license": "GNU General Public License v2.0",
+    "name": "py-muttwarrior",
+    "obsolete": true,
+    "stars": 1,
+    "theme": [],
+    "url": "https://github.com/jakejohns/py-muttwarrior",
+    "url_src": "https://github.com/jakejohns/py-muttwarrior"
+  },
+  {
+    "author": [
+      "mythmon"
+    ],
+    "category": "Unknown",
+    "description": "A tool to interact with taskwarrior quicklky",
+    "descriptionText": "A tool to interact with taskwarrior quicklky",
+    "language": [
+      "Rust"
+    ],
+    "last_update": "2021-04-19 18:30:08",
+    "license": null,
+    "name": "taskwarrior-rofi",
     "obsolete": false,
     "stars": 1,
     "theme": [],
-    "url": "https://github.com/cherusk/tw_projector",
-    "url_src": "https://github.com/cherusk/tw_projector"
+    "url": "https://github.com/mythmon/taskwarrior-rofi",
+    "url_src": "https://github.com/mythmon/taskwarrior-rofi"
   },
   {
     "author": [
@@ -4566,27 +4585,6 @@
   },
   {
     "author": [
-      "RaghavSood"
-    ],
-    "category": "Unknown",
-    "description": "A golang program to email taskwarrior tasks",
-    "descriptionText": "A golang program to email taskwarrior tasks",
-    "language": [
-      "Go"
-    ],
-    "last_update": "2018-05-26 02:33:13",
-    "license": null,
-    "name": "taskmail",
-    "obsolete": false,
-    "stars": 1,
-    "theme": [
-      "Mail"
-    ],
-    "url": "https://github.com/RaghavSood/taskmail",
-    "url_src": "https://github.com/RaghavSood/taskmail"
-  },
-  {
-    "author": [
       "linuxcaffe"
     ],
     "category": "Unknown",
@@ -4645,6 +4643,27 @@
     "theme": [],
     "url": "https://github.com/harleypig/node-twlib",
     "url_src": "https://github.com/harleypig/node-twlib"
+  },
+  {
+    "author": [
+      "RaghavSood"
+    ],
+    "category": "Unknown",
+    "description": "A golang program to email taskwarrior tasks",
+    "descriptionText": "A golang program to email taskwarrior tasks",
+    "language": [
+      "Go"
+    ],
+    "last_update": "2018-05-26 02:33:13",
+    "license": null,
+    "name": "taskmail",
+    "obsolete": false,
+    "stars": 1,
+    "theme": [
+      "Mail"
+    ],
+    "url": "https://github.com/RaghavSood/taskmail",
+    "url_src": "https://github.com/RaghavSood/taskmail"
   },
   {
     "author": [
@@ -4783,25 +4802,6 @@
   },
   {
     "author": [
-      "lyz-code"
-    ],
-    "category": "Unknown",
-    "description": "Taskwarrior based program to manage your kanban workflow",
-    "descriptionText": "Taskwarrior based program to manage your kanban workflow",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2021-03-05 04:35:29",
-    "license": "GNU General Public License v2.0",
-    "name": "taskban",
-    "obsolete": false,
-    "stars": 1,
-    "theme": [],
-    "url": "https://github.com/lyz-code/taskban",
-    "url_src": "https://github.com/lyz-code/taskban"
-  },
-  {
-    "author": [
       "linuxcaffe"
     ],
     "category": "Unknown",
@@ -4840,41 +4840,22 @@
   },
   {
     "author": [
-      "nikolavp"
+      "lyz-code"
     ],
     "category": "Unknown",
-    "description": "Automatically exported from code.google.com/p/taskwarrior-utils",
-    "descriptionText": "Automatically exported from code.google.com/p/taskwarrior-utils",
+    "description": "Taskwarrior based program to manage your kanban workflow",
+    "descriptionText": "Taskwarrior based program to manage your kanban workflow",
     "language": [
       "Python"
     ],
-    "last_update": "2015-04-27 15:45:32",
-    "license": null,
-    "name": "taskwarrior-utils",
-    "obsolete": true,
-    "stars": 1,
-    "theme": [],
-    "url": "https://github.com/nikolavp/taskwarrior-utils",
-    "url_src": "https://github.com/nikolavp/taskwarrior-utils"
-  },
-  {
-    "author": [
-      "djmitche"
-    ],
-    "category": "Unknown",
-    "description": "Operational Transformations as the basis for a taskwarrior replacement",
-    "descriptionText": "Operational Transformations as the basis for a taskwarrior replacement",
-    "language": [
-      "Rust"
-    ],
-    "last_update": "2020-02-09 12:22:49",
-    "license": null,
-    "name": "ot",
+    "last_update": "2021-03-05 04:35:29",
+    "license": "GNU General Public License v2.0",
+    "name": "taskban",
     "obsolete": false,
     "stars": 1,
     "theme": [],
-    "url": "https://github.com/djmitche/ot",
-    "url_src": "https://github.com/djmitche/ot"
+    "url": "https://github.com/lyz-code/taskban",
+    "url_src": "https://github.com/lyz-code/taskban"
   },
   {
     "author": [
@@ -4913,6 +4894,44 @@
     "theme": [],
     "url": "https://github.com/babadoo/taskwarrior-focus",
     "url_src": "https://github.com/babadoo/taskwarrior-focus"
+  },
+  {
+    "author": [
+      "nikolavp"
+    ],
+    "category": "Unknown",
+    "description": "Automatically exported from code.google.com/p/taskwarrior-utils",
+    "descriptionText": "Automatically exported from code.google.com/p/taskwarrior-utils",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2015-04-27 15:45:32",
+    "license": null,
+    "name": "taskwarrior-utils",
+    "obsolete": true,
+    "stars": 1,
+    "theme": [],
+    "url": "https://github.com/nikolavp/taskwarrior-utils",
+    "url_src": "https://github.com/nikolavp/taskwarrior-utils"
+  },
+  {
+    "author": [
+      "djmitche"
+    ],
+    "category": "Unknown",
+    "description": "Operational Transformations as the basis for a taskwarrior replacement",
+    "descriptionText": "Operational Transformations as the basis for a taskwarrior replacement",
+    "language": [
+      "Rust"
+    ],
+    "last_update": "2020-02-09 12:22:49",
+    "license": null,
+    "name": "ot",
+    "obsolete": false,
+    "stars": 1,
+    "theme": [],
+    "url": "https://github.com/djmitche/ot",
+    "url_src": "https://github.com/djmitche/ot"
   },
   {
     "author": [
@@ -5363,6 +5382,25 @@
   },
   {
     "author": [
+      "alem0lars"
+    ],
+    "category": "Unknown",
+    "description": "Taskwarrior configuration (fizzy compliant)",
+    "descriptionText": "Taskwarrior configuration (fizzy compliant)",
+    "language": [
+      "N/A"
+    ],
+    "last_update": "2016-04-06 11:11:31",
+    "license": "Apache License 2.0",
+    "name": "configs-taskwarrior",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/alem0lars/configs-taskwarrior",
+    "url_src": "https://github.com/alem0lars/configs-taskwarrior"
+  },
+  {
+    "author": [
       "derekslenk"
     ],
     "category": "Unknown",
@@ -5424,25 +5462,6 @@
   },
   {
     "author": [
-      "alem0lars"
-    ],
-    "category": "Unknown",
-    "description": "Taskwarrior configuration (fizzy compliant)",
-    "descriptionText": "Taskwarrior configuration (fizzy compliant)",
-    "language": [
-      "N/A"
-    ],
-    "last_update": "2016-04-06 11:11:31",
-    "license": "Apache License 2.0",
-    "name": "configs-taskwarrior",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/alem0lars/configs-taskwarrior",
-    "url_src": "https://github.com/alem0lars/configs-taskwarrior"
-  },
-  {
-    "author": [
       "jijames"
     ],
     "category": "Unknown",
@@ -5480,25 +5499,6 @@
     "theme": [],
     "url": "https://github.com/divagant-martian/tw-dotfiles",
     "url_src": "https://github.com/divagant-martian/tw-dotfiles"
-  },
-  {
-    "author": [
-      "rocknrollMarc"
-    ],
-    "category": "Unknown",
-    "description": "my taskwarrior files",
-    "descriptionText": "my taskwarrior files",
-    "language": [
-      "N/A"
-    ],
-    "last_update": "2014-01-13 21:44:54",
-    "license": null,
-    "name": "task",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/rocknrollMarc/task",
-    "url_src": "https://github.com/rocknrollMarc/task"
   },
   {
     "author": [
@@ -5616,6 +5616,122 @@
     "theme": [],
     "url": "https://github.com/anassBelcaid/tawkwarrior",
     "url_src": "https://github.com/anassBelcaid/tawkwarrior"
+  },
+  {
+    "author": [
+      "rocknrollMarc"
+    ],
+    "category": "Unknown",
+    "description": "my taskwarrior files",
+    "descriptionText": "my taskwarrior files",
+    "language": [
+      "N/A"
+    ],
+    "last_update": "2014-01-13 21:44:54",
+    "license": null,
+    "name": "task",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/rocknrollMarc/task",
+    "url_src": "https://github.com/rocknrollMarc/task"
+  },
+  {
+    "author": [
+      "nocejo"
+    ],
+    "category": "Unknown",
+    "description": "Simulated Taskwarrior shell",
+    "descriptionText": "Simulated Taskwarrior shell",
+    "language": [
+      "Perl"
+    ],
+    "last_update": "2014-09-09 10:10:47",
+    "license": "Other",
+    "name": "tsh",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/nocejo/tsh",
+    "url_src": "https://github.com/nocejo/tsh"
+  },
+  {
+    "author": [
+      "MadeOfMagicAndWires"
+    ],
+    "category": "Unknown",
+    "description": "Taskwarrior Android App",
+    "descriptionText": "Taskwarrior Android App",
+    "language": [
+      "Java"
+    ],
+    "last_update": "2017-10-13 14:34:59",
+    "license": "MIT License",
+    "name": "taskwarriorandroid",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [
+      "Android"
+    ],
+    "url": "https://github.com/MadeOfMagicAndWires/taskwarriorandroid",
+    "url_src": "https://github.com/MadeOfMagicAndWires/taskwarriorandroid"
+  },
+  {
+    "author": [
+      "jrenslin"
+    ],
+    "category": "Unknown",
+    "description": "Taskwarrior integration for Mattermost",
+    "descriptionText": "Taskwarrior integration for Mattermost",
+    "language": [
+      "PHP"
+    ],
+    "last_update": "2017-12-05 14:10:15",
+    "license": "MIT License",
+    "name": "mattermost-taskwarrior",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/jrenslin/mattermost-taskwarrior",
+    "url_src": "https://github.com/jrenslin/mattermost-taskwarrior"
+  },
+  {
+    "author": [
+      "towo"
+    ],
+    "category": "Unknown",
+    "description": "Taskwarrior taskd Puppet module",
+    "descriptionText": "Taskwarrior taskd Puppet module",
+    "language": [
+      "Ruby"
+    ],
+    "last_update": "2018-05-03 18:14:04",
+    "license": null,
+    "name": "puppet-taskd",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/towo/puppet-taskd",
+    "url_src": "https://github.com/towo/puppet-taskd"
+  },
+  {
+    "author": [
+      "GoldenRaven"
+    ],
+    "category": "Unknown",
+    "description": "my taskwarrior files",
+    "descriptionText": "my taskwarrior files",
+    "language": [
+      "N/A"
+    ],
+    "last_update": "2018-09-29 02:37:26",
+    "license": null,
+    "name": "my_task",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/GoldenRaven/my_task",
+    "url_src": "https://github.com/GoldenRaven/my_task"
   },
   {
     "author": [
@@ -5754,100 +5870,60 @@
   },
   {
     "author": [
-      "nocejo"
+      "dotfilerepo"
     ],
     "category": "Unknown",
-    "description": "Simulated Taskwarrior shell",
-    "descriptionText": "Simulated Taskwarrior shell",
-    "language": [
-      "Perl"
-    ],
-    "last_update": "2014-09-09 10:10:47",
-    "license": "Other",
-    "name": "tsh",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/nocejo/tsh",
-    "url_src": "https://github.com/nocejo/tsh"
-  },
-  {
-    "author": [
-      "MadeOfMagicAndWires"
-    ],
-    "category": "Unknown",
-    "description": "Taskwarrior Android App",
-    "descriptionText": "Taskwarrior Android App",
-    "language": [
-      "Java"
-    ],
-    "last_update": "2017-10-13 14:34:59",
-    "license": "MIT License",
-    "name": "taskwarriorandroid",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [
-      "Android"
-    ],
-    "url": "https://github.com/MadeOfMagicAndWires/taskwarriorandroid",
-    "url_src": "https://github.com/MadeOfMagicAndWires/taskwarriorandroid"
-  },
-  {
-    "author": [
-      "jrenslin"
-    ],
-    "category": "Unknown",
-    "description": "Taskwarrior integration for Mattermost",
-    "descriptionText": "Taskwarrior integration for Mattermost",
-    "language": [
-      "PHP"
-    ],
-    "last_update": "2017-12-05 14:10:15",
-    "license": "MIT License",
-    "name": "mattermost-taskwarrior",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/jrenslin/mattermost-taskwarrior",
-    "url_src": "https://github.com/jrenslin/mattermost-taskwarrior"
-  },
-  {
-    "author": [
-      "towo"
-    ],
-    "category": "Unknown",
-    "description": "Taskwarrior taskd Puppet module",
-    "descriptionText": "Taskwarrior taskd Puppet module",
-    "language": [
-      "Ruby"
-    ],
-    "last_update": "2018-05-03 18:14:04",
-    "license": null,
-    "name": "puppet-taskd",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/towo/puppet-taskd",
-    "url_src": "https://github.com/towo/puppet-taskd"
-  },
-  {
-    "author": [
-      "GoldenRaven"
-    ],
-    "category": "Unknown",
-    "description": "my taskwarrior files",
-    "descriptionText": "my taskwarrior files",
+    "description": "taskwarrior config files",
+    "descriptionText": "taskwarrior config files",
     "language": [
       "N/A"
     ],
-    "last_update": "2018-09-29 02:37:26",
+    "last_update": "2015-04-20 08:28:28",
     "license": null,
-    "name": "my_task",
+    "name": "taskwarrior",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/dotfilerepo/taskwarrior",
+    "url_src": "https://github.com/dotfilerepo/taskwarrior"
+  },
+  {
+    "author": [
+      "jak3"
+    ],
+    "category": "Unknown",
+    "description": "Fizzy compliant taskwarrior configs",
+    "descriptionText": "Fizzy compliant taskwarrior configs",
+    "language": [
+      "N/A"
+    ],
+    "last_update": "2017-08-23 06:09:37",
+    "license": "Apache License 2.0",
+    "name": "configs-taskwarrior",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/jak3/configs-taskwarrior",
+    "url_src": "https://github.com/jak3/configs-taskwarrior"
+  },
+  {
+    "author": [
+      "yulqen"
+    ],
+    "category": "Unknown",
+    "description": "Taskwarrior tasks from templates",
+    "descriptionText": "Taskwarrior tasks from templates",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2019-02-17 16:40:56",
+    "license": "Other",
+    "name": "tw_templates",
     "obsolete": false,
     "stars": 0,
     "theme": [],
-    "url": "https://github.com/GoldenRaven/my_task",
-    "url_src": "https://github.com/GoldenRaven/my_task"
+    "url": "https://github.com/yulqen/tw_templates",
+    "url_src": "https://github.com/yulqen/tw_templates"
   },
   {
     "author": [
@@ -5905,63 +5981,6 @@
     "theme": [],
     "url": "https://github.com/LikiPiki/taskwarriorExtension",
     "url_src": "https://github.com/LikiPiki/taskwarriorExtension"
-  },
-  {
-    "author": [
-      "dotfilerepo"
-    ],
-    "category": "Unknown",
-    "description": "taskwarrior config files",
-    "descriptionText": "taskwarrior config files",
-    "language": [
-      "N/A"
-    ],
-    "last_update": "2015-04-20 08:28:28",
-    "license": null,
-    "name": "taskwarrior",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/dotfilerepo/taskwarrior",
-    "url_src": "https://github.com/dotfilerepo/taskwarrior"
-  },
-  {
-    "author": [
-      "jak3"
-    ],
-    "category": "Unknown",
-    "description": "Fizzy compliant taskwarrior configs",
-    "descriptionText": "Fizzy compliant taskwarrior configs",
-    "language": [
-      "N/A"
-    ],
-    "last_update": "2017-08-23 06:09:37",
-    "license": "Apache License 2.0",
-    "name": "configs-taskwarrior",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/jak3/configs-taskwarrior",
-    "url_src": "https://github.com/jak3/configs-taskwarrior"
-  },
-  {
-    "author": [
-      "yulqen"
-    ],
-    "category": "Unknown",
-    "description": "Taskwarrior tasks from templates",
-    "descriptionText": "Taskwarrior tasks from templates",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2019-02-17 16:40:56",
-    "license": "Other",
-    "name": "tw_templates",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/yulqen/tw_templates",
-    "url_src": "https://github.com/yulqen/tw_templates"
   },
   {
     "author": [
@@ -6024,25 +6043,6 @@
   },
   {
     "author": [
-      "semtle"
-    ],
-    "category": "Unknown",
-    "description": "simple ncurses interface to TaskWarrior",
-    "descriptionText": "simple ncurses interface to TaskWarrior",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2020-06-24 23:44:15",
-    "license": "GNU General Public License v3.0",
-    "name": "taskhud",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/semtle/taskhud",
-    "url_src": "https://github.com/semtle/taskhud"
-  },
-  {
-    "author": [
       "Mange"
     ],
     "category": "Unknown",
@@ -6102,62 +6102,22 @@
   },
   {
     "author": [
-      "linuxcaffe"
+      "semtle"
     ],
     "category": "Unknown",
-    "description": "taskwarrior time-of-day script",
-    "descriptionText": "taskwarrior time-of-day script",
-    "language": [
-      "Shell"
-    ],
-    "last_update": "2016-09-29 01:33:58",
-    "license": "MIT License",
-    "name": "tw-tod-sh",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [
-      "Time"
-    ],
-    "url": "https://github.com/linuxcaffe/tw-tod-sh",
-    "url_src": "https://github.com/linuxcaffe/tw-tod-sh"
-  },
-  {
-    "author": [
-      "brianmay"
-    ],
-    "category": "Unknown",
-    "description": "Docker container for taskwarrior daemon",
-    "descriptionText": "Docker container for taskwarrior daemon",
-    "language": [
-      "Shell"
-    ],
-    "last_update": "2020-05-26 21:17:12",
-    "license": "GNU General Public License v3.0",
-    "name": "taskd",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/brianmay/taskd",
-    "url_src": "https://github.com/brianmay/taskd"
-  },
-  {
-    "author": [
-      "DerHabicht"
-    ],
-    "category": "Unknown",
-    "description": "Chart Taskwarrior dependencies using Graphviz",
-    "descriptionText": "Chart Taskwarrior dependencies using Graphviz",
+    "description": "simple ncurses interface to TaskWarrior",
+    "descriptionText": "simple ncurses interface to TaskWarrior",
     "language": [
       "Python"
     ],
-    "last_update": "2019-12-10 17:55:06",
-    "license": "MIT License",
-    "name": "tw_dep_grapher",
+    "last_update": "2020-06-24 23:44:15",
+    "license": "GNU General Public License v3.0",
+    "name": "taskhud",
     "obsolete": false,
     "stars": 0,
     "theme": [],
-    "url": "https://github.com/DerHabicht/tw_dep_grapher",
-    "url_src": "https://github.com/DerHabicht/tw_dep_grapher"
+    "url": "https://github.com/semtle/taskhud",
+    "url_src": "https://github.com/semtle/taskhud"
   },
   {
     "author": [
@@ -6220,6 +6180,84 @@
   },
   {
     "author": [
+      "DerHabicht"
+    ],
+    "category": "Unknown",
+    "description": "Chart Taskwarrior dependencies using Graphviz",
+    "descriptionText": "Chart Taskwarrior dependencies using Graphviz",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2019-12-10 17:55:06",
+    "license": "MIT License",
+    "name": "tw_dep_grapher",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/DerHabicht/tw_dep_grapher",
+    "url_src": "https://github.com/DerHabicht/tw_dep_grapher"
+  },
+  {
+    "author": [
+      "linuxcaffe"
+    ],
+    "category": "Unknown",
+    "description": "taskwarrior time-of-day script",
+    "descriptionText": "taskwarrior time-of-day script",
+    "language": [
+      "Shell"
+    ],
+    "last_update": "2016-09-29 01:33:58",
+    "license": "MIT License",
+    "name": "tw-tod-sh",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [
+      "Time"
+    ],
+    "url": "https://github.com/linuxcaffe/tw-tod-sh",
+    "url_src": "https://github.com/linuxcaffe/tw-tod-sh"
+  },
+  {
+    "author": [
+      "brianmay"
+    ],
+    "category": "Unknown",
+    "description": "Docker container for taskwarrior daemon",
+    "descriptionText": "Docker container for taskwarrior daemon",
+    "language": [
+      "Shell"
+    ],
+    "last_update": "2020-05-26 21:17:12",
+    "license": "GNU General Public License v3.0",
+    "name": "taskd",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/brianmay/taskd",
+    "url_src": "https://github.com/brianmay/taskd"
+  },
+  {
+    "author": [
+      "psychopenguin"
+    ],
+    "category": "Unknown",
+    "description": "Docker image for taskwarrior server",
+    "descriptionText": "Docker image for taskwarrior server",
+    "language": [
+      "Shell"
+    ],
+    "last_update": "2018-05-08 09:40:03",
+    "license": null,
+    "name": "taskd-docker",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/psychopenguin/taskd-docker",
+    "url_src": "https://github.com/psychopenguin/taskd-docker"
+  },
+  {
+    "author": [
       "MikiGrit"
     ],
     "category": "Unknown",
@@ -6255,63 +6293,6 @@
     "theme": [],
     "url": "https://github.com/fl83/alfred-taskwarrior",
     "url_src": "https://github.com/fl83/alfred-taskwarrior"
-  },
-  {
-    "author": [
-      "psychopenguin"
-    ],
-    "category": "Unknown",
-    "description": "Docker image for taskwarrior server",
-    "descriptionText": "Docker image for taskwarrior server",
-    "language": [
-      "Shell"
-    ],
-    "last_update": "2018-05-08 09:40:03",
-    "license": null,
-    "name": "taskd-docker",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/psychopenguin/taskd-docker",
-    "url_src": "https://github.com/psychopenguin/taskd-docker"
-  },
-  {
-    "author": [
-      "carlos-wong"
-    ],
-    "category": "Unknown",
-    "description": "javascript code version of taskwarrior",
-    "descriptionText": "javascript code version of taskwarrior",
-    "language": [
-      "N/A"
-    ],
-    "last_update": "2016-08-02 13:25:44",
-    "license": "MIT License",
-    "name": "taskwarrior-js",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/carlos-wong/taskwarrior-js",
-    "url_src": "https://github.com/carlos-wong/taskwarrior-js"
-  },
-  {
-    "author": [
-      "jeremyreeder"
-    ],
-    "category": "Unknown",
-    "description": "A localized wrapper for Taskwarrior",
-    "descriptionText": "A localized wrapper for Taskwarrior",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2018-02-19 02:32:56",
-    "license": null,
-    "name": "tasklocale",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/jeremyreeder/tasklocale",
-    "url_src": "https://github.com/jeremyreeder/tasklocale"
   },
   {
     "author": [
@@ -6390,6 +6371,44 @@
     ],
     "url": "https://github.com/Shekcon/Tasks-Web",
     "url_src": "https://github.com/Shekcon/Tasks-Web"
+  },
+  {
+    "author": [
+      "carlos-wong"
+    ],
+    "category": "Unknown",
+    "description": "javascript code version of taskwarrior",
+    "descriptionText": "javascript code version of taskwarrior",
+    "language": [
+      "N/A"
+    ],
+    "last_update": "2016-08-02 13:25:44",
+    "license": "MIT License",
+    "name": "taskwarrior-js",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/carlos-wong/taskwarrior-js",
+    "url_src": "https://github.com/carlos-wong/taskwarrior-js"
+  },
+  {
+    "author": [
+      "jeremyreeder"
+    ],
+    "category": "Unknown",
+    "description": "A localized wrapper for Taskwarrior",
+    "descriptionText": "A localized wrapper for Taskwarrior",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2018-02-19 02:32:56",
+    "license": null,
+    "name": "tasklocale",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/jeremyreeder/tasklocale",
+    "url_src": "https://github.com/jeremyreeder/tasklocale"
   },
   {
     "author": [
@@ -6587,6 +6606,44 @@
   },
   {
     "author": [
+      "aagnone3"
+    ],
+    "category": "Unknown",
+    "description": "Scripts for making TaskWarrior even more useful",
+    "descriptionText": "Scripts for making TaskWarrior even more useful",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2018-08-09 11:29:25",
+    "license": "Apache License 2.0",
+    "name": "dotfiles-task",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/aagnone3/dotfiles-task",
+    "url_src": "https://github.com/aagnone3/dotfiles-task"
+  },
+  {
+    "author": [
+      "claudiomattera"
+    ],
+    "category": "Unknown",
+    "description": "Sends reminders for tasks from Taskwarrior",
+    "descriptionText": "Sends reminders for tasks from Taskwarrior",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2019-11-17 21:09:10",
+    "license": "MIT License",
+    "name": "taskreminder",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/claudiomattera/taskreminder",
+    "url_src": "https://github.com/claudiomattera/taskreminder"
+  },
+  {
+    "author": [
       "vpavlin"
     ],
     "category": "Unknown",
@@ -6663,41 +6720,60 @@
   },
   {
     "author": [
-      "aagnone3"
+      "xeijin"
     ],
     "category": "Unknown",
-    "description": "Scripts for making TaskWarrior even more useful",
-    "descriptionText": "Scripts for making TaskWarrior even more useful",
+    "description": "taskwarrior distribution with dependencies for windows",
+    "descriptionText": "taskwarrior distribution with dependencies for windows",
     "language": [
-      "Python"
+      "N/A"
     ],
-    "last_update": "2018-08-09 11:29:25",
-    "license": "Apache License 2.0",
-    "name": "dotfiles-task",
+    "last_update": "2020-06-10 01:15:32",
+    "license": null,
+    "name": "taskwarrior-windows-native",
     "obsolete": false,
     "stars": 0,
     "theme": [],
-    "url": "https://github.com/aagnone3/dotfiles-task",
-    "url_src": "https://github.com/aagnone3/dotfiles-task"
+    "url": "https://github.com/xeijin/taskwarrior-windows-native",
+    "url_src": "https://github.com/xeijin/taskwarrior-windows-native"
   },
   {
     "author": [
-      "claudiomattera"
+      "leifdenby"
     ],
     "category": "Unknown",
-    "description": "Sends reminders for tasks from Taskwarrior",
-    "descriptionText": "Sends reminders for tasks from Taskwarrior",
+    "description": "Two-way syncing for Taskwarrior and Todoist",
+    "descriptionText": "Two-way syncing for Taskwarrior and Todoist",
     "language": [
       "Python"
     ],
-    "last_update": "2019-11-17 21:09:10",
-    "license": "MIT License",
-    "name": "taskreminder",
+    "last_update": "2017-08-23 10:14:57",
+    "license": null,
+    "name": "twsync",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/leifdenby/twsync",
+    "url_src": "https://github.com/leifdenby/twsync"
+  },
+  {
+    "author": [
+      "Mossop"
+    ],
+    "category": "Unknown",
+    "description": "A typesafe asynchronous API for accessing taskwarrior.",
+    "descriptionText": "A typesafe asynchronous API for accessing taskwarrior.",
+    "language": [
+      "TypeScript"
+    ],
+    "last_update": "2020-07-20 16:29:07",
+    "license": null,
+    "name": "taskwarrior-api",
     "obsolete": false,
     "stars": 0,
     "theme": [],
-    "url": "https://github.com/claudiomattera/taskreminder",
-    "url_src": "https://github.com/claudiomattera/taskreminder"
+    "url": "https://github.com/Mossop/taskwarrior-api",
+    "url_src": "https://github.com/Mossop/taskwarrior-api"
   },
   {
     "author": [
@@ -6796,63 +6872,6 @@
   },
   {
     "author": [
-      "leifdenby"
-    ],
-    "category": "Unknown",
-    "description": "Two-way syncing for Taskwarrior and Todoist",
-    "descriptionText": "Two-way syncing for Taskwarrior and Todoist",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2017-08-23 10:14:57",
-    "license": null,
-    "name": "twsync",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/leifdenby/twsync",
-    "url_src": "https://github.com/leifdenby/twsync"
-  },
-  {
-    "author": [
-      "Mossop"
-    ],
-    "category": "Unknown",
-    "description": "A typesafe asynchronous API for accessing taskwarrior.",
-    "descriptionText": "A typesafe asynchronous API for accessing taskwarrior.",
-    "language": [
-      "TypeScript"
-    ],
-    "last_update": "2020-07-20 16:29:07",
-    "license": null,
-    "name": "taskwarrior-api",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/Mossop/taskwarrior-api",
-    "url_src": "https://github.com/Mossop/taskwarrior-api"
-  },
-  {
-    "author": [
-      "xeijin"
-    ],
-    "category": "Unknown",
-    "description": "taskwarrior distribution with dependencies for windows",
-    "descriptionText": "taskwarrior distribution with dependencies for windows",
-    "language": [
-      "N/A"
-    ],
-    "last_update": "2020-06-10 01:15:32",
-    "license": null,
-    "name": "taskwarrior-windows-native",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/xeijin/taskwarrior-windows-native",
-    "url_src": "https://github.com/xeijin/taskwarrior-windows-native"
-  },
-  {
-    "author": [
       "yulqen"
     ],
     "category": "Unknown",
@@ -6869,6 +6888,65 @@
     "theme": [],
     "url": "https://github.com/yulqen/tw-date-tools",
     "url_src": "https://github.com/yulqen/tw-date-tools"
+  },
+  {
+    "author": [
+      "kostajh"
+    ],
+    "category": "Unknown",
+    "description": "Log your times in Harvest from Taskwarrior",
+    "descriptionText": "Log your times in Harvest from Taskwarrior",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2014-09-12 19:16:10",
+    "license": "MIT License",
+    "name": "seed-drill",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [
+      "Time"
+    ],
+    "url": "https://github.com/kostajh/seed-drill",
+    "url_src": "https://github.com/kostajh/seed-drill"
+  },
+  {
+    "author": [
+      "qbit"
+    ],
+    "category": "Unknown",
+    "description": "taskwarrior to jabber interface (NodeJS,JavaScript)",
+    "descriptionText": "taskwarrior to jabber interface (NodeJS,JavaScript)",
+    "language": [
+      "JavaScript"
+    ],
+    "last_update": "2014-01-09 14:03:14",
+    "license": null,
+    "name": "taskjabb",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/qbit/taskjabb",
+    "url_src": "https://github.com/qbit/taskjabb"
+  },
+  {
+    "author": [
+      "linduxed"
+    ],
+    "category": "Unknown",
+    "description": "Parser and manipulator of Taskwarrior data",
+    "descriptionText": "Parser and manipulator of Taskwarrior data",
+    "language": [
+      "Elixir"
+    ],
+    "last_update": "2020-08-25 15:26:21",
+    "license": "MIT License",
+    "name": "taskwarrior.ex",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/linduxed/taskwarrior.ex",
+    "url_src": "https://github.com/linduxed/taskwarrior.ex"
   },
   {
     "author": [
@@ -6950,65 +7028,6 @@
   },
   {
     "author": [
-      "kostajh"
-    ],
-    "category": "Unknown",
-    "description": "Log your times in Harvest from Taskwarrior",
-    "descriptionText": "Log your times in Harvest from Taskwarrior",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2014-09-12 19:16:10",
-    "license": "MIT License",
-    "name": "seed-drill",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [
-      "Time"
-    ],
-    "url": "https://github.com/kostajh/seed-drill",
-    "url_src": "https://github.com/kostajh/seed-drill"
-  },
-  {
-    "author": [
-      "qbit"
-    ],
-    "category": "Unknown",
-    "description": "taskwarrior to jabber interface (NodeJS,JavaScript)",
-    "descriptionText": "taskwarrior to jabber interface (NodeJS,JavaScript)",
-    "language": [
-      "JavaScript"
-    ],
-    "last_update": "2014-01-09 14:03:14",
-    "license": null,
-    "name": "taskjabb",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/qbit/taskjabb",
-    "url_src": "https://github.com/qbit/taskjabb"
-  },
-  {
-    "author": [
-      "linduxed"
-    ],
-    "category": "Unknown",
-    "description": "Parser and manipulator of Taskwarrior data",
-    "descriptionText": "Parser and manipulator of Taskwarrior data",
-    "language": [
-      "Elixir"
-    ],
-    "last_update": "2020-08-25 15:26:21",
-    "license": "MIT License",
-    "name": "taskwarrior.ex",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/linduxed/taskwarrior.ex",
-    "url_src": "https://github.com/linduxed/taskwarrior.ex"
-  },
-  {
-    "author": [
       "Zebradil"
     ],
     "category": "Unknown",
@@ -7044,44 +7063,6 @@
     "theme": [],
     "url": "https://github.com/rubenrubiob/task-parser",
     "url_src": "https://github.com/rubenrubiob/task-parser"
-  },
-  {
-    "author": [
-      "mythmon"
-    ],
-    "category": "Unknown",
-    "description": "A tool to interact with taskwarrior quicklky",
-    "descriptionText": "A tool to interact with taskwarrior quicklky",
-    "language": [
-      "Rust"
-    ],
-    "last_update": "2021-03-19 22:15:21",
-    "license": null,
-    "name": "taskwarrior-rofi",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/mythmon/taskwarrior-rofi",
-    "url_src": "https://github.com/mythmon/taskwarrior-rofi"
-  },
-  {
-    "author": [
-      "procyonid"
-    ],
-    "category": "Unknown",
-    "description": "Terminal frontend for Taskwarrior written in Rust",
-    "descriptionText": "Terminal frontend for Taskwarrior written in Rust",
-    "language": [
-      "N/A"
-    ],
-    "last_update": "2020-11-22 18:49:19",
-    "license": "GNU General Public License v3.0",
-    "name": "hercules",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/procyonid/hercules",
-    "url_src": "https://github.com/procyonid/hercules"
   },
   {
     "author": [
@@ -7163,60 +7144,22 @@
   },
   {
     "author": [
-      "sportnak"
+      "procyonid"
     ],
     "category": "Unknown",
-    "description": "React native mobile app for taskwarrior api",
-    "descriptionText": "React native mobile app for taskwarrior api",
-    "language": [
-      "JavaScript"
-    ],
-    "last_update": "2018-06-15 04:35:56",
-    "license": null,
-    "name": "task-api-mobile",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/sportnak/task-api-mobile",
-    "url_src": "https://github.com/sportnak/task-api-mobile"
-  },
-  {
-    "author": [
-      "aubincleme"
-    ],
-    "category": "Unknown",
-    "description": "Tool for importing JIRA tasks into TaskWarrior",
-    "descriptionText": "Tool for importing JIRA tasks into TaskWarrior",
+    "description": "Terminal frontend for Taskwarrior written in Rust",
+    "descriptionText": "Terminal frontend for Taskwarrior written in Rust",
     "language": [
       "N/A"
     ],
-    "last_update": "2019-12-20 21:43:34",
-    "license": null,
-    "name": "taskwarrior-jira-importer",
+    "last_update": "2020-11-22 18:49:19",
+    "license": "GNU General Public License v3.0",
+    "name": "hercules",
     "obsolete": false,
     "stars": 0,
     "theme": [],
-    "url": "https://github.com/aubincleme/taskwarrior-jira-importer",
-    "url_src": "https://github.com/aubincleme/taskwarrior-jira-importer"
-  },
-  {
-    "author": [
-      "nerab"
-    ],
-    "category": "Unknown",
-    "description": "Helpers for writing TaskWarrior tests in Ruby",
-    "descriptionText": "Helpers for writing TaskWarrior tests in Ruby",
-    "language": [
-      "Ruby"
-    ],
-    "last_update": "2020-04-30 18:48:55",
-    "license": "MIT License",
-    "name": "twtest",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/nerab/twtest",
-    "url_src": "https://github.com/nerab/twtest"
+    "url": "https://github.com/procyonid/hercules",
+    "url_src": "https://github.com/procyonid/hercules"
   },
   {
     "author": [
@@ -7295,6 +7238,63 @@
     ],
     "url": "https://github.com/yigitsever/dotfiles",
     "url_src": "https://github.com/yigitsever/dotfiles"
+  },
+  {
+    "author": [
+      "sportnak"
+    ],
+    "category": "Unknown",
+    "description": "React native mobile app for taskwarrior api",
+    "descriptionText": "React native mobile app for taskwarrior api",
+    "language": [
+      "JavaScript"
+    ],
+    "last_update": "2018-06-15 04:35:56",
+    "license": null,
+    "name": "task-api-mobile",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/sportnak/task-api-mobile",
+    "url_src": "https://github.com/sportnak/task-api-mobile"
+  },
+  {
+    "author": [
+      "aubincleme"
+    ],
+    "category": "Unknown",
+    "description": "Tool for importing JIRA tasks into TaskWarrior",
+    "descriptionText": "Tool for importing JIRA tasks into TaskWarrior",
+    "language": [
+      "N/A"
+    ],
+    "last_update": "2019-12-20 21:43:34",
+    "license": null,
+    "name": "taskwarrior-jira-importer",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/aubincleme/taskwarrior-jira-importer",
+    "url_src": "https://github.com/aubincleme/taskwarrior-jira-importer"
+  },
+  {
+    "author": [
+      "nerab"
+    ],
+    "category": "Unknown",
+    "description": "Helpers for writing TaskWarrior tests in Ruby",
+    "descriptionText": "Helpers for writing TaskWarrior tests in Ruby",
+    "language": [
+      "Ruby"
+    ],
+    "last_update": "2020-04-30 18:48:55",
+    "license": "MIT License",
+    "name": "twtest",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/nerab/twtest",
+    "url_src": "https://github.com/nerab/twtest"
   },
   {
     "author": [
@@ -7431,46 +7431,6 @@
   },
   {
     "author": [
-      "Rozmari"
-    ],
-    "category": "Unknown",
-    "description": "A small alternative to TaskWarrior with auto-reminding. ",
-    "descriptionText": "A small alternative to TaskWarrior with auto-reminding. ",
-    "language": [
-      "Shell"
-    ],
-    "last_update": "2019-07-08 21:03:17",
-    "license": "GNU General Public License v3.0",
-    "name": "TaskScout",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/Rozmari/TaskScout",
-    "url_src": "https://github.com/Rozmari/TaskScout"
-  },
-  {
-    "author": [
-      "ShockRabbit"
-    ],
-    "category": "Unknown",
-    "description": "taskwarrior, timewarrior weekly report script (personal script. not general)",
-    "descriptionText": "taskwarrior, timewarrior weekly report script (personal script. not general)",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2021-03-06 15:22:26",
-    "license": null,
-    "name": "report-twarriors",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [
-      "Time"
-    ],
-    "url": "https://github.com/ShockRabbit/report-twarriors",
-    "url_src": "https://github.com/ShockRabbit/report-twarriors"
-  },
-  {
-    "author": [
       "mrwonko"
     ],
     "category": "Unknown",
@@ -7509,64 +7469,43 @@
   },
   {
     "author": [
-      "ssbarnea"
+      "Rozmari"
     ],
     "category": "Unknown",
-    "description": "A table filter experimentation for TaskWarrior web site",
-    "descriptionText": "A table filter experimentation for TaskWarrior web site",
+    "description": "A small alternative to TaskWarrior with auto-reminding. ",
+    "descriptionText": "A small alternative to TaskWarrior with auto-reminding. ",
     "language": [
-      "JavaScript"
+      "Shell"
     ],
-    "last_update": "2020-04-26 13:30:14",
-    "license": null,
-    "name": "taskwarrior-site-test",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [
-      "Web"
-    ],
-    "url": "https://github.com/ssbarnea/taskwarrior-site-test",
-    "url_src": "https://github.com/ssbarnea/taskwarrior-site-test"
-  },
-  {
-    "author": [
-      "yagizsenal"
-    ],
-    "category": "Unknown",
-    "description": "A taskwarrior hook to support spaced learning method",
-    "descriptionText": "A taskwarrior hook to support spaced learning method",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2020-04-10 18:15:28",
-    "license": "MIT License",
-    "name": "taskwarrior-spacedlearning",
+    "last_update": "2019-07-08 21:03:17",
+    "license": "GNU General Public License v3.0",
+    "name": "TaskScout",
     "obsolete": false,
     "stars": 0,
     "theme": [],
-    "url": "https://github.com/yagizsenal/taskwarrior-spacedlearning",
-    "url_src": "https://github.com/yagizsenal/taskwarrior-spacedlearning"
+    "url": "https://github.com/Rozmari/TaskScout",
+    "url_src": "https://github.com/Rozmari/TaskScout"
   },
   {
     "author": [
-      "ayosec"
+      "ShockRabbit"
     ],
     "category": "Unknown",
-    "description": "Show changes in a Taskwarrior database, similar to `git log`",
-    "descriptionText": "Show changes in a Taskwarrior database, similar to `git log`",
+    "description": "taskwarrior, timewarrior weekly report script (personal script. not general)",
+    "descriptionText": "taskwarrior, timewarrior weekly report script (personal script. not general)",
     "language": [
-      "Rust"
+      "Python"
     ],
-    "last_update": "2021-04-06 22:32:29",
-    "license": "Apache License 2.0",
-    "name": "task-changes",
+    "last_update": "2021-03-06 15:22:26",
+    "license": null,
+    "name": "report-twarriors",
     "obsolete": false,
     "stars": 0,
     "theme": [
-      "Git"
+      "Time"
     ],
-    "url": "https://github.com/ayosec/task-changes",
-    "url_src": "https://github.com/ayosec/task-changes"
+    "url": "https://github.com/ShockRabbit/report-twarriors",
+    "url_src": "https://github.com/ShockRabbit/report-twarriors"
   },
   {
     "author": [
@@ -7688,6 +7627,124 @@
   },
   {
     "author": [
+      "ssbarnea"
+    ],
+    "category": "Unknown",
+    "description": "A table filter experimentation for TaskWarrior web site",
+    "descriptionText": "A table filter experimentation for TaskWarrior web site",
+    "language": [
+      "JavaScript"
+    ],
+    "last_update": "2020-04-26 13:30:14",
+    "license": null,
+    "name": "taskwarrior-site-test",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [
+      "Web"
+    ],
+    "url": "https://github.com/ssbarnea/taskwarrior-site-test",
+    "url_src": "https://github.com/ssbarnea/taskwarrior-site-test"
+  },
+  {
+    "author": [
+      "yagizsenal"
+    ],
+    "category": "Unknown",
+    "description": "A taskwarrior hook to support spaced learning method",
+    "descriptionText": "A taskwarrior hook to support spaced learning method",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2020-04-10 18:15:28",
+    "license": "MIT License",
+    "name": "taskwarrior-spacedlearning",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/yagizsenal/taskwarrior-spacedlearning",
+    "url_src": "https://github.com/yagizsenal/taskwarrior-spacedlearning"
+  },
+  {
+    "author": [
+      "ayosec"
+    ],
+    "category": "Unknown",
+    "description": "Show changes in a Taskwarrior database, similar to `git log`",
+    "descriptionText": "Show changes in a Taskwarrior database, similar to `git log`",
+    "language": [
+      "Rust"
+    ],
+    "last_update": "2021-04-06 22:32:29",
+    "license": "Apache License 2.0",
+    "name": "task-changes",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [
+      "Git"
+    ],
+    "url": "https://github.com/ayosec/task-changes",
+    "url_src": "https://github.com/ayosec/task-changes"
+  },
+  {
+    "author": [
+      "philipsd6"
+    ],
+    "category": "Unknown",
+    "description": "Build Taskwarrior client from a Makefile using FPM",
+    "descriptionText": "Build Taskwarrior client from a Makefile using FPM",
+    "language": [
+      "Makefile"
+    ],
+    "last_update": "2016-03-28 15:43:58",
+    "license": "MIT License",
+    "name": "fpm-taskwarrior",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/philipsd6/fpm-taskwarrior",
+    "url_src": "https://github.com/philipsd6/fpm-taskwarrior"
+  },
+  {
+    "author": [
+      "edufarest"
+    ],
+    "category": "Unknown",
+    "description": "Export and sync taskwarrior tasks to Google Calendar",
+    "descriptionText": "Export and sync taskwarrior tasks to Google Calendar",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2020-01-30 04:25:25",
+    "license": null,
+    "name": "task2gcal",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/edufarest/task2gcal",
+    "url_src": "https://github.com/edufarest/task2gcal"
+  },
+  {
+    "author": [
+      "yunghuffy"
+    ],
+    "category": "Unknown",
+    "description": "A puppet role designed to set up the taskwarrior server",
+    "descriptionText": "A puppet role designed to set up the taskwarrior server",
+    "language": [
+      "Puppet"
+    ],
+    "last_update": "2017-06-09 19:39:52",
+    "license": null,
+    "name": "champain-taskwarrior_server",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/yunghuffy/champain-taskwarrior_server",
+    "url_src": "https://github.com/yunghuffy/champain-taskwarrior_server"
+  },
+  {
+    "author": [
       "johanbove"
     ],
     "category": "Unknown",
@@ -7787,63 +7844,6 @@
   },
   {
     "author": [
-      "philipsd6"
-    ],
-    "category": "Unknown",
-    "description": "Build Taskwarrior client from a Makefile using FPM",
-    "descriptionText": "Build Taskwarrior client from a Makefile using FPM",
-    "language": [
-      "Makefile"
-    ],
-    "last_update": "2016-03-28 15:43:58",
-    "license": "MIT License",
-    "name": "fpm-taskwarrior",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/philipsd6/fpm-taskwarrior",
-    "url_src": "https://github.com/philipsd6/fpm-taskwarrior"
-  },
-  {
-    "author": [
-      "edufarest"
-    ],
-    "category": "Unknown",
-    "description": "Export and sync taskwarrior tasks to Google Calendar",
-    "descriptionText": "Export and sync taskwarrior tasks to Google Calendar",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2020-01-30 04:25:25",
-    "license": null,
-    "name": "task2gcal",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/edufarest/task2gcal",
-    "url_src": "https://github.com/edufarest/task2gcal"
-  },
-  {
-    "author": [
-      "yunghuffy"
-    ],
-    "category": "Unknown",
-    "description": "A puppet role designed to set up the taskwarrior server",
-    "descriptionText": "A puppet role designed to set up the taskwarrior server",
-    "language": [
-      "Puppet"
-    ],
-    "last_update": "2017-06-09 19:39:52",
-    "license": null,
-    "name": "champain-taskwarrior_server",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/yunghuffy/champain-taskwarrior_server",
-    "url_src": "https://github.com/yunghuffy/champain-taskwarrior_server"
-  },
-  {
-    "author": [
       "mythmon"
     ],
     "category": "Unknown",
@@ -7920,6 +7920,63 @@
   },
   {
     "author": [
+      "Glitch-is"
+    ],
+    "category": "Unknown",
+    "description": "Sends your Assignments, Homework and Tests from Inna to TaskWarrior",
+    "descriptionText": "Sends your Assignments, Homework and Tests from Inna to TaskWarrior",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2015-01-12 21:57:26",
+    "license": null,
+    "name": "InnaTasks",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/Glitch-is/InnaTasks",
+    "url_src": "https://github.com/Glitch-is/InnaTasks"
+  },
+  {
+    "author": [
+      "unifiDa"
+    ],
+    "category": "Unknown",
+    "description": "Use taskwarrior to build the <Eisenhower's Urgency/Priority> table",
+    "descriptionText": "Use taskwarrior to build the <Eisenhower's Urgency/Priority> table",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2018-04-20 17:07:05",
+    "license": null,
+    "name": "eisenTask",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/unifiDa/eisenTask",
+    "url_src": "https://github.com/unifiDa/eisenTask"
+  },
+  {
+    "author": [
+      "pld-linux"
+    ],
+    "category": "Unknown",
+    "description": "Lightweight, fast, curses-based front end to Taskwarrior",
+    "descriptionText": "Lightweight, fast, curses-based front end to Taskwarrior",
+    "language": [
+      "N/A"
+    ],
+    "last_update": "2021-02-28 22:01:14",
+    "license": null,
+    "name": "vit",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/pld-linux/vit",
+    "url_src": "https://github.com/pld-linux/vit"
+  },
+  {
+    "author": [
       "Crisses"
     ],
     "category": "Unknown",
@@ -7993,143 +8050,6 @@
     "theme": [],
     "url": "https://github.com/arjkb/tw_set_deps",
     "url_src": "https://github.com/arjkb/tw_set_deps"
-  },
-  {
-    "author": [
-      "Glitch-is"
-    ],
-    "category": "Unknown",
-    "description": "Sends your Assignments, Homework and Tests from Inna to TaskWarrior",
-    "descriptionText": "Sends your Assignments, Homework and Tests from Inna to TaskWarrior",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2015-01-12 21:57:26",
-    "license": null,
-    "name": "InnaTasks",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/Glitch-is/InnaTasks",
-    "url_src": "https://github.com/Glitch-is/InnaTasks"
-  },
-  {
-    "author": [
-      "unifiDa"
-    ],
-    "category": "Unknown",
-    "description": "Use taskwarrior to build the <Eisenhower's Urgency/Priority> table",
-    "descriptionText": "Use taskwarrior to build the <Eisenhower's Urgency/Priority> table",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2018-04-20 17:07:05",
-    "license": null,
-    "name": "eisenTask",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/unifiDa/eisenTask",
-    "url_src": "https://github.com/unifiDa/eisenTask"
-  },
-  {
-    "author": [
-      "pld-linux"
-    ],
-    "category": "Unknown",
-    "description": "Lightweight, fast, curses-based front end to Taskwarrior",
-    "descriptionText": "Lightweight, fast, curses-based front end to Taskwarrior",
-    "language": [
-      "N/A"
-    ],
-    "last_update": "2021-02-28 22:01:14",
-    "license": null,
-    "name": "vit",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/pld-linux/vit",
-    "url_src": "https://github.com/pld-linux/vit"
-  },
-  {
-    "author": [
-      "jhmartin"
-    ],
-    "category": "Unknown",
-    "description": "Repo to support creating a Taskwarrior Taskd AMI",
-    "descriptionText": "Repo to support creating a Taskwarrior Taskd AMI",
-    "language": [
-      "Shell"
-    ],
-    "last_update": "2015-03-17 13:52:52",
-    "license": "Apache License 2.0",
-    "name": "taskd-ami",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/jhmartin/taskd-ami",
-    "url_src": "https://github.com/jhmartin/taskd-ami"
-  },
-  {
-    "author": [
-      "marnen"
-    ],
-    "category": "Unknown",
-    "description": "Integration between Gmail (at least) and Inthe.AM/TaskWarrior",
-    "descriptionText": "Integration between Gmail (at least) and Inthe.AM/TaskWarrior",
-    "language": [
-      "N/A"
-    ],
-    "last_update": "2016-09-15 18:40:48",
-    "license": "MIT License",
-    "name": "in-the-mail",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [
-      "Mail"
-    ],
-    "url": "https://github.com/marnen/in-the-mail",
-    "url_src": "https://github.com/marnen/in-the-mail"
-  },
-  {
-    "author": [
-      "jonathanbarton"
-    ],
-    "category": "Unknown",
-    "description": "wip: wunderlist & taskwarrior two-way sync in python3",
-    "descriptionText": "wip: wunderlist & taskwarrior two-way sync in python3",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2018-03-31 14:50:44",
-    "license": "Apache License 2.0",
-    "name": "wunderwarrior",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/jonathanbarton/wunderwarrior",
-    "url_src": "https://github.com/jonathanbarton/wunderwarrior"
-  },
-  {
-    "author": [
-      "fsimkovic"
-    ],
-    "category": "Unknown",
-    "description": "Pomodoro UI for time-tracking of TaskWarrior tasks",
-    "descriptionText": "Pomodoro UI for time-tracking of TaskWarrior tasks",
-    "language": [
-      "Python"
-    ],
-    "last_update": "2020-01-05 13:26:45",
-    "license": "MIT License",
-    "name": "taskwarrior-pomodoro",
-    "obsolete": false,
-    "stars": 0,
-    "theme": [
-      "Time"
-    ],
-    "url": "https://github.com/fsimkovic/taskwarrior-pomodoro",
-    "url_src": "https://github.com/fsimkovic/taskwarrior-pomodoro"
   },
   {
     "author": [
@@ -8225,6 +8145,86 @@
     "theme": [],
     "url": "https://github.com/johnivore/docker-taskd",
     "url_src": "https://github.com/johnivore/docker-taskd"
+  },
+  {
+    "author": [
+      "jhmartin"
+    ],
+    "category": "Unknown",
+    "description": "Repo to support creating a Taskwarrior Taskd AMI",
+    "descriptionText": "Repo to support creating a Taskwarrior Taskd AMI",
+    "language": [
+      "Shell"
+    ],
+    "last_update": "2015-03-17 13:52:52",
+    "license": "Apache License 2.0",
+    "name": "taskd-ami",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/jhmartin/taskd-ami",
+    "url_src": "https://github.com/jhmartin/taskd-ami"
+  },
+  {
+    "author": [
+      "marnen"
+    ],
+    "category": "Unknown",
+    "description": "Integration between Gmail (at least) and Inthe.AM/TaskWarrior",
+    "descriptionText": "Integration between Gmail (at least) and Inthe.AM/TaskWarrior",
+    "language": [
+      "N/A"
+    ],
+    "last_update": "2016-09-15 18:40:48",
+    "license": "MIT License",
+    "name": "in-the-mail",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [
+      "Mail"
+    ],
+    "url": "https://github.com/marnen/in-the-mail",
+    "url_src": "https://github.com/marnen/in-the-mail"
+  },
+  {
+    "author": [
+      "jonathanbarton"
+    ],
+    "category": "Unknown",
+    "description": "wip: wunderlist & taskwarrior two-way sync in python3",
+    "descriptionText": "wip: wunderlist & taskwarrior two-way sync in python3",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2018-03-31 14:50:44",
+    "license": "Apache License 2.0",
+    "name": "wunderwarrior",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/jonathanbarton/wunderwarrior",
+    "url_src": "https://github.com/jonathanbarton/wunderwarrior"
+  },
+  {
+    "author": [
+      "fsimkovic"
+    ],
+    "category": "Unknown",
+    "description": "Pomodoro UI for time-tracking of TaskWarrior tasks",
+    "descriptionText": "Pomodoro UI for time-tracking of TaskWarrior tasks",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2020-01-05 13:26:45",
+    "license": "MIT License",
+    "name": "taskwarrior-pomodoro",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [
+      "Time"
+    ],
+    "url": "https://github.com/fsimkovic/taskwarrior-pomodoro",
+    "url_src": "https://github.com/fsimkovic/taskwarrior-pomodoro"
   },
   {
     "author": [
@@ -8369,44 +8369,6 @@
   },
   {
     "author": [
-      "abesto"
-    ],
-    "category": "Unknown",
-    "description": "A fully configurable HTTP frontend for showing views of your taskwarrior TODO list.",
-    "descriptionText": "A fully configurable HTTP frontend for showing views of your taskwarrior TODO list.",
-    "language": [
-      "JavaScript"
-    ],
-    "last_update": "2015-01-26 22:27:21",
-    "license": null,
-    "name": "taskproxy",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/abesto/taskproxy",
-    "url_src": "https://github.com/abesto/taskproxy"
-  },
-  {
-    "author": [
-      "AnotherKamila"
-    ],
-    "category": "Unknown",
-    "description": "This was fun, but now I am using Taskwarrior with my own Tasksched",
-    "descriptionText": "This was fun, but now I am using Taskwarrior with my own Tasksched",
-    "language": [
-      "JavaScript"
-    ],
-    "last_update": "2017-11-30 22:03:07",
-    "license": "MIT License",
-    "name": "todo-viewer",
-    "obsolete": true,
-    "stars": 0,
-    "theme": [],
-    "url": "https://github.com/AnotherKamila/todo-viewer",
-    "url_src": "https://github.com/AnotherKamila/todo-viewer"
-  },
-  {
-    "author": [
       "sclo"
     ],
     "category": "Unknown",
@@ -8461,6 +8423,44 @@
     "theme": [],
     "url": "https://github.com/hamlinux/taskwarrior-GTD",
     "url_src": "https://github.com/hamlinux/taskwarrior-GTD"
+  },
+  {
+    "author": [
+      "abesto"
+    ],
+    "category": "Unknown",
+    "description": "A fully configurable HTTP frontend for showing views of your taskwarrior TODO list.",
+    "descriptionText": "A fully configurable HTTP frontend for showing views of your taskwarrior TODO list.",
+    "language": [
+      "JavaScript"
+    ],
+    "last_update": "2015-01-26 22:27:21",
+    "license": null,
+    "name": "taskproxy",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/abesto/taskproxy",
+    "url_src": "https://github.com/abesto/taskproxy"
+  },
+  {
+    "author": [
+      "AnotherKamila"
+    ],
+    "category": "Unknown",
+    "description": "This was fun, but now I am using Taskwarrior with my own Tasksched",
+    "descriptionText": "This was fun, but now I am using Taskwarrior with my own Tasksched",
+    "language": [
+      "JavaScript"
+    ],
+    "last_update": "2017-11-30 22:03:07",
+    "license": "MIT License",
+    "name": "todo-viewer",
+    "obsolete": true,
+    "stars": 0,
+    "theme": [],
+    "url": "https://github.com/AnotherKamila/todo-viewer",
+    "url_src": "https://github.com/AnotherKamila/todo-viewer"
   },
   {
     "author": [
@@ -9163,11 +9163,11 @@
     "language": [
       "Go"
     ],
-    "last_update": "2021-03-26 14:55:04",
+    "last_update": "2021-04-19 19:05:58",
     "license": "MIT License",
     "name": "timew-sync-server",
     "obsolete": false,
-    "stars": 4,
+    "stars": 5,
     "theme": [
       "Time"
     ],
@@ -9593,6 +9593,28 @@
     ],
     "url": "https://github.com/AMNeumann/flexitime",
     "url_src": "https://github.com/AMNeumann/flexitime"
+  },
+  {
+    "author": [
+      "rccavalcanti"
+    ],
+    "category": "Unknown",
+    "description": "Get Timewarrior's total time per tag per week through a web API.",
+    "descriptionText": "Get Timewarrior's total time per tag per week through a web API.",
+    "language": [
+      "Python"
+    ],
+    "last_update": "2021-04-19 17:21:25",
+    "license": "GNU General Public License v3.0",
+    "name": "timew-web-report",
+    "obsolete": false,
+    "stars": 0,
+    "theme": [
+      "Time",
+      "Web"
+    ],
+    "url": "https://github.com/rccavalcanti/timew-web-report",
+    "url_src": "https://github.com/rccavalcanti/timew-web-report"
   },
   {
     "author": [
