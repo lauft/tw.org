@@ -12,6 +12,7 @@ jobs:
       - name: Update tools
         env:
           GITHUB_API_KEY: ${{ secrets.GITHUB_TOKEN }}
+          LOG_LEVEL: "DEBUG"
         run: |
           python3 -m venv /tmp/venv
           /tmp/venv/bin/pip install --upgrade pip
