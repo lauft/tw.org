@@ -3857,21 +3857,6 @@
     "url": "https://github.com/drewstinnett/taskpoet"
   },
   {
-    "description": "Misc. scripts for pushing things to taskwarrior",
-    "dormant": true,
-    "language": [
-      "Python"
-    ],
-    "license": null,
-    "name": "taskwarrior-scripts",
-    "owner": [
-      "drewstinnett"
-    ],
-    "rating": 0,
-    "updated": "2018-07-03",
-    "url": "https://github.com/drewstinnett/taskwarrior-scripts"
-  },
-  {
     "description": null,
     "dormant": true,
     "language": [
@@ -10050,21 +10035,6 @@
     "rating": 0,
     "updated": "2017-11-23",
     "url": "https://github.com/vonpupp/dotfiles-task"
-  },
-  {
-    "description": "A Dockerfile for Taskwarrior container image",
-    "dormant": true,
-    "language": [
-      "N/A"
-    ],
-    "license": null,
-    "name": "taskwarrior-dockerfile",
-    "owner": [
-      "vpavlin"
-    ],
-    "rating": 0,
-    "updated": "2015-08-18",
-    "url": "https://github.com/vpavlin/taskwarrior-dockerfile"
   },
   {
     "description": "Telch is a web interface for taskwarrior",
